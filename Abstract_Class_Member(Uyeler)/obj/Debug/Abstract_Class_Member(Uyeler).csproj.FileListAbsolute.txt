@@ -1,0 +1,20 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\bin\Debug\Abstract_Class_Member(Uyeler).exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\bin\Debug\Abstract_Class_Member(Uyeler).exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\bin\Debug\Abstract_Class_Member(Uyeler).pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member(Uyeler).csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member_Uyeler_.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member_Uyeler_.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member(Uyeler).csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member(Uyeler).csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member(Uyeler).exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member(Uyeler).pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\bin\Debug\Abstract_Class_Member(Uyeler).exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\bin\Debug\Abstract_Class_Member(Uyeler).exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\bin\Debug\Abstract_Class_Member(Uyeler).pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member(Uyeler).csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member_Uyeler_.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member_Uyeler_.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member(Uyeler).csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member(Uyeler).csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member(Uyeler).exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Abstract_Class_Member(Uyeler)\Abstract_Class_Member(Uyeler)\obj\Debug\Abstract_Class_Member(Uyeler).pdb
